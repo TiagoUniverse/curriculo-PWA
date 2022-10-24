@@ -3880,3 +3880,10 @@ input, select, textarea {
 		}
 
 	}
+
+
+.photo
+{
+	border: 8px solid rgb(187, 152, 152);
+}
+
