@@ -9,6 +9,9 @@ Diante disso, este projeto vai armazenar um currículo digital utilizando os pad
 
 ---
 
+## Link
+https://capable-medovik-8683ab.netlify.app/
+
 ## 🎯 Objetivo
 Apresentar meus pontos fortes em um currículo digital e responsivo.
 
